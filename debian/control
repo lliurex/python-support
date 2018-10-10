@@ -3,9 +3,9 @@ Section: python
 Priority: optional
 Maintainer: Josselin Mouette <joss@debian.org>
 Uploaders: Bernd Zeimetz <bzed@debian.org>, Piotr Ożarowski <piotr@debian.org>
-Build-Depends: debhelper (>= 7), cdbs
+Build-Depends: debhelper (>= 10), cdbs
 Build-Depends-Indep: python (>= 2.5)
-Standards-Version: 3.9.3
+Standards-Version: 4.1.2
 Vcs-Svn: svn://anonscm.debian.org/collab-maint/deb-maint/python-support/trunk
 Vcs-Browser: http://anonscm.debian.org/viewvc/collab-maint/deb-maint/python-support/trunk/
 
